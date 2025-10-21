@@ -1,0 +1,15 @@
+/*Estica a pagina usamos para background */
+.container-fluid {
+  width: auto;
+}
+
+/*Alinha o centro e limitar a largura */
+.container {
+  max-width: 98rem;
+  margin: 0 auto;
+}
+
+/* Onde fica o conteudo */
+.content {
+  margin: 3.2rem;
+}
