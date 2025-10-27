@@ -1,4 +1,4 @@
-import { Heading } from "./components/Heading";
+import { Menu } from "./components/Menu";
 import { Container } from "./components/Container";
 import { Logo } from "./components/Logo";
 
@@ -13,7 +13,7 @@ export default function App() {
       </Container>
 
       <Container>
-        <Heading>MENU</Heading>
+        <Menu />
       </Container>
     </>
   );
