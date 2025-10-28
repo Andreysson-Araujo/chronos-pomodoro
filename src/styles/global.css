@@ -33,4 +33,5 @@ body {
   justify-content: center;
   flex-direction: column;
   grid-area: 2.4rem;
+  margin-top: 3rem;
 }
